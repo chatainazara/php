@@ -1,0 +1,44 @@
+.header {
+    background: #000;
+    border:dotted 5px red;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+    border:solid  6px blue;
+}
+
+
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px;
+    border:solid 4px yellow;
+}
+
+.quiz__content{
+    padding: 60px 15px;
+    margin: 0 auto;
+    max-width: 1230px;
+    border: dashed 3px green;
+}
+
+.question {
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 550px;
+    border-radius: 3px;
+    background: #000;
+    text-align: center;
+    border: double 6px pink;
+}
+
+.question__text {
+    color: #fff;
+    text-align: left;
+    border: solid 3px orange;
+}
